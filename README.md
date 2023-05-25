@@ -1,2 +1,1 @@
-The Odin Project
-Project: Basic node Server 
+The Odin Project: Basic node Server 
